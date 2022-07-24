@@ -9,4 +9,6 @@ Files created at the preprocessing and results can be found to the following lin
 
 The model created can be downloaded from the following link https://acgedu30684-my.sharepoint.com/:u:/g/personal/m_koinakis_acg_edu/ESh0OrfDpsRMiCUa0z19TP4BOyoXpuOD9j65ExdLNsrTuA?e=QiPccc
 
+The project report can be found from the following link https://acgedu30684-my.sharepoint.com/:w:/g/personal/m_koinakis_acg_edu/EQMj4Hqzpi1Gtt5dWaplFk8BhLTxGspgnIqx5A9M5jIhrQ?e=qbTRZj
 
+The project presentation can be found from the following link https://acgedu30684-my.sharepoint.com/:p:/g/personal/m_koinakis_acg_edu/ESOMZXvU5IxNlkMWjaL3UD0Bh3XycJ8w8IZ-z7xS8vC5aQ?e=bWfEHH
