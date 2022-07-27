@@ -1,0 +1,9 @@
+To run the files, simply export the files data and the code in the same directory.
+
+To produce the files for preprocessing run the create_item_vectors.py and create_users_array.py .
+
+To group the items together run the brute_clustering_with_cosine.py .
+
+To train the model use the LSTM_online_training_features_classifier.py .
+
+To evaluate the model count_prec_rec_f1.py . It will produce one CSV. Import the file in python compiler with pandas and print the average of the three columns.
